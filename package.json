@@ -1,0 +1,26 @@
+{
+  "name": "office-ui-fabric-mini",
+  "version": "1.0.0",
+  "description": "The front-end CSS framework for building experiences for Office and Microsoft 365.",
+  "scripts": {
+    "sass": "node-sass styles/sass/Fabric.scss styles/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/null-none/office-ui-fabric-mini.git"
+  },
+  "keywords": [
+    "css",
+    "style",
+    "ofiice365"
+  ],
+  "author": "Kalinin Dmytro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/null-none/office-ui-fabric-mini/issues"
+  },
+  "homepage": "https://github.com/null-none/office-ui-fabric-mini#readme",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
